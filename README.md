@@ -1,7 +1,7 @@
 # temperature-converter-app
 A simple web-based temperature converter built using HTML, CSS, and JavaScript. Converts between Celsius and Fahrenheit with clean UI and clear logic.
 
-# Daily Task 01 - Temperature Converter
+# Temperature Converter
 
 This is a basic web application that converts temperatures between Celsius and Fahrenheit. It helps in understanding DOM manipulation, event handling, and arithmetic logic in JavaScript.
 
